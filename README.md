@@ -2,7 +2,7 @@
 <!-- ================= Banner ================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Nabdip%20Dev&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20Full%20Stack%20Web%20Developer&descAlignY=60&animation=fadeIn"/>
+  <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nabdip</h1>
@@ -20,21 +20,21 @@ Always learning, building, and turning ideas into reality 🚀
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
+<div align="center">
 
-🔭 Building modern Full Stack Web Applications
+🚀 I am a MERN Stack Developer focused on building modern, scalable, and user-friendly web applications.
 
-🌱 Learning Next.js, TypeScript & Docker
+💻 Experienced in developing full-stack solutions with **React.js, Next.js, Node.js, Express.js, and MongoDB**.
 
-💻 Passionate about Clean Code
+🎨 I enjoy creating clean UI, smooth user experiences, and efficient backend systems.
 
-🚀 Love creating scalable applications
+🌱 Currently exploring **TypeScript, Docker, Cloud Deployment, and Advanced Backend Architecture**.
 
-⚡ Exploring new technologies every day
+⚡ Passionate about problem-solving, clean code, and learning new technologies.
 
-🎯 Goal → Become a Professional Software Engineer
+🎯 My goal is to become a professional Software Engineer and build impactful digital products.
 
-</p>
+</div>
 
 ---
 
@@ -98,26 +98,10 @@ Always learning, building, and turning ideas into reality 🚀
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nabdip-Dev&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabdip-Dev&theme=tokyo-night"/>
-</p>
-
----
-
-<h2 align="center">🔝 Top Contributed Repository</h2>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Nabdip-Dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
