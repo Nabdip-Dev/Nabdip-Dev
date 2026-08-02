@@ -93,7 +93,7 @@ Always learning, building, and turning ideas into reality 🚀
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Nabdip-Dev&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Nabdip-Dev&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ Always learning, building, and turning ideas into reality 🚀
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nabdip-Dev&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nabdip-Dev&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
