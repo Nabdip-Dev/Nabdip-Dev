@@ -41,7 +41,7 @@ Always learning, building, and turning ideas into reality 🚀
 <h2 align="center">🎨 Frontend</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,ejs&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Always learning, building, and turning ideas into reality 🚀
 <h2 align="center">☁️ Cloud & Deployment</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,render,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,docker&perline=6" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Always learning, building, and turning ideas into reality 🚀
 <h2 align="center">🛠️ Tools & Design</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,figma,canva,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,figma,vscode,postman&perline=8" />
 </p>
 
 ---
