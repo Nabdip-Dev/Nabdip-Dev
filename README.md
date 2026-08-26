@@ -2,7 +2,7 @@
 <!-- ================= Banner ================= -->
 
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" width="100%" />
+  <img src="./banne.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nabdip</h1>
